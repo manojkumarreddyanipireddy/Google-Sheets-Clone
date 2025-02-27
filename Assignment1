@@ -1,3 +1,5 @@
 git init
 git branch -M main
 git remote add origin https://github.com/manojkumarreddyanipireddy/Google-Sheets-Cole.git
+git add .
+git commit -m
